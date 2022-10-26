@@ -2,7 +2,7 @@
 info for @blackjack_ebot
 -----------------------
 <p><a name="#RU"></a></p>
-├ <p><a href="#top">Правила игры Blackjack</a></p>
+├ <p><a href="#blacjack_rules">Правила игры Blackjack</a></p>
 ├
 ├
 ├
