@@ -21,4 +21,4 @@ info for @blackjack_ebot
 
 
 
-<p><a href="#top">Наверх</a></p>
+<p><a href="blacjack_rules">Правила игры Blackjack</a></p>
